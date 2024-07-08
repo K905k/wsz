@@ -1,0 +1,6 @@
+telethon
+kvsqlite
+beautifulsoup4
+requests
+fake_useragent
+datetime
